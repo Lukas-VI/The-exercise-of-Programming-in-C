@@ -5,7 +5,6 @@ int main()
 {
     int a,i,j,k;
     do{
-        
         scanf("%d", &a);
         a=abs (a);
         if (!(a>99 && a <1000)){
